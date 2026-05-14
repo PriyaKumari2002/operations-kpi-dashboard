@@ -1,0 +1,521 @@
+ticket_id,created_at,first_response_minutes,resolved_at,resolution_hours,priority,sla_frt_limit_mins,sla_resolve_limit_days,category,channel,agent,team,escalated,escalation_type,escalation_tier,reopened
+TKT-0200,01-27-2024 13:14:00,32.5,30/01/2024 08:44,67.5,high,40,3,Technical,Email,Agent_Kumar,T1,No,,,No
+TKT-0462,23/08/2024 13:05,77.7,08-24-2024 21:41:00,32.6,medium,40,3,Account,Phone,Agent_Ali,T2,No,,,No
+TKT-0356,26/11/2024 08:19,28.6,11-30-2024 20:01:00,107.7,medium,40,3,Billing,Portal,Agent_Patel,T1,Yes,Customer Requested,T2>T3,No
+TKT-0034,10-26-2024 14:57:00,8.8,,,critical,15,1,Account,Email,Agent_Ali,T2,No,,,Yes
+TKT-0475,17/11/2024 13:09,,2024-11-19 17:45:00,52.6,medium,40,3,Billing,Email,Agent_Ali,T1,No,,,No
+TKT-0414,2024-08-08 15:56:00,29.1,08-10-2024 15:02:00,47.1,medium,40,3,Technical,Email,Agent_Sharma,T2,No,,,No
+TKT-0488,21/01/2024 11:45,43.5,01-22-2024 06:03:00,18.3,low,45,7,Technical,Phone,Agent_Brown,T1,No,,,No
+TKT-0026,05-18-2024 18:44:00,17.7,05-18-2024 19:50:00,1.1,high,40,3,Technical,Chat,Agent_Patel,T1,No,,,No
+TKT-0452,2024-05-10 12:20:00,79.4,13/05/2024 05:26,65.1,medium,40,3,Account,Chat,Agent_Smith,T1,No,,,No
+TKT-0254,02-07-2024 17:40:00,95.4,08/02/2024 00:52,7.2,medium,40,3,Technical,Email,Agent_Brown,T1,No,,,No
+TKT-0381,07/09/2024 17:26,23.8,2024-09-10 01:14:00,55.8,low,45,7,Billing,Email,Agent_Ali,T1,No,,,No
+TKT-0373,04-23-2024 18:04:00,9.3,27/04/2024 09:34,87.5,low,45,7,Account,Portal,Agent_Kumar,T3,Yes,Manager,T1>T3,No
+TKT-0471,2024-03-19 18:04:00,11.4,26/03/2024 05:46,155.7,low,45,7,Account,Chat,Agent_Kumar,T2,Yes,Internal,T2>T3,No
+TKT-0350,12-17-2024 08:58:00,20.6,18/12/2024 08:04,23.1,medium,40,3,Account,Email,Agent_Brown,T1,No,,,No
+TKT-0493,27/11/2024 13:04,30.0,29/11/2024 11:16,46.2,low,45,7,Technical,Email,Agent_Chen,T1,No,,,No
+TKT-0042,2024-05-16 18:21:00,37.4,2024-05-18 13:33:00,43.2,medium,40,3,Account,Phone,Agent_Kumar,T2,No,,,No
+TKT-0441,2024-11-01 09:56:00,7.9,2024-11-10 02:14:00,208.3,low,45,7,Technical,Portal,Agent_Patel,T1,No,,,No
+TKT-0255,01-28-2024 10:09:00,35.1,02-05-2024 11:03:00,192.9,low,45,7,Billing,Phone,Agent_Sharma,T1,No,,,No
+TKT-0466,03-27-2024 09:32:00,,03-31-2024 10:32:00,97.0,medium,40,3,Technical,Email,Agent_Chen,T1,No,,,No
+TKT-0472,11-17-2024 15:29:00,61.2,11-18-2024 00:11:00,8.7,critical,15,1,Hardware,Phone,Agent_Brown,T1,No,,,No
+TKT-0305,08-29-2024 11:29:00,7.7,08-31-2024 18:41:00,55.2,high,40,3,Technical,Phone,Agent_Jones,T2,No,,,Yes
+TKT-0422,27/10/2024 16:35,30.0,2024-10-30 11:47:00,67.2,high,40,3,Technical,Chat,Agent_Brown,T1,No,,,No
+TKT-0326,09-06-2024 16:02:00,,,,high,40,3,Hardware,Email,Agent_Chen,T2,Yes,Manager,T1>T3,No
+TKT-0430,20/10/2024 11:51,25.8,10-24-2024 09:39:00,93.8,low,45,7,Technical,Portal,Agent_Chen,T1,No,,,No
+TKT-0172,16/08/2024 10:47,32.5,2024-08-18 13:17:00,50.5,low,45,7,Network,Portal,Agent_Brown,T1,No,,,Yes
+TKT-0401,19/09/2024 17:06,,24/09/2024 13:54,116.8,low,45,7,Billing,Email,Agent_Sharma,T1,No,,,No
+TKT-0288,17/06/2024 14:44,17.0,,,medium,40,3,Technical,Chat,Agent_Chen,T1,No,,,No
+TKT-0416,2024-07-23 14:46:00,46.8,07-24-2024 15:28:00,24.7,medium,40,3,Technical,Portal,Agent_Patel,T3,No,,,No
+TKT-0106,2024-06-02 18:06:00,8.1,06-05-2024 15:00:00,68.9,low,45,7,Technical,Email,Agent_Ali,T1,Yes,Manager,T1>T2,No
+TKT-0232,12-19-2024 15:41:00,,21/12/2024 19:59,52.3,medium,40,3,Network,Email,Agent_Jones,T2,No,,,No
+TKT-0211,2024-12-19 18:15:00,13.0,12-21-2024 16:03:00,45.8,medium,40,3,Network,Chat,Agent_Smith,T1,No,,,No
+TKT-0051,05-02-2024 08:15:00,13.8,2024-05-02 10:51:00,2.6,critical,15,1,Technical,Portal,Agent_Sharma,T3,No,,,No
+TKT-0330,2024-12-26 09:28:00,12.2,,,low,45,7,Technical,Chat,Agent_Kumar,T2,Yes,Manager,T1>T3,No
+TKT-0360,08/03/2024 16:56,17.4,12/03/2024 21:44,100.8,medium,40,3,Billing,Chat,Agent_Patel,T3,No,,,Yes
+TKT-0089,2024-09-17 09:54:00,10.4,2024-09-20 06:36:00,68.7,high,40,3,Billing,Portal,Agent_Kumar,T3,No,,,No
+TKT-0480,07-07-2024 12:04:00,12.0,07-09-2024 10:46:00,46.7,medium,40,3,Account,Chat,Agent_Chen,T1,No,,,No
+TKT-0191,2024-03-25 15:58:00,100.7,2024-03-31 17:34:00,145.6,low,45,7,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0024,11-21-2024 10:34:00,95.1,,,medium,40,3,Network,Portal,Agent_Kumar,T3,Yes,Internal,T1>T2,No
+TKT-0014,2024-01-23 15:34:00,14.1,28/01/2024 19:34,124.0,low,45,7,Network,Email,Agent_Brown,T1,No,,,No
+TKT-0143,08/08/2024 09:42,,08-10-2024 22:48:00,61.1,medium,40,3,Billing,Phone,Agent_Brown,T2,No,,,No
+TKT-0068,04/05/2024 15:51,25.9,2024-05-06 20:27:00,52.6,high,40,3,Technical,Email,Agent_Ali,T2,No,,,No
+TKT-0327,02-05-2024 11:40:00,25.3,2024-02-07 04:52:00,41.2,medium,40,3,Technical,Email,Agent_Patel,T1,No,,,No
+TKT-0125,07-30-2024 08:11:00,,08-03-2024 08:05:00,95.9,low,45,7,Account,Phone,Agent_Ali,T2,Yes,Manager,T1>T2,No
+TKT-0231,2024-07-27 15:35:00,57.0,28/07/2024 15:35,24.0,high,40,3,Billing,Portal,Agent_Chen,T1,No,,,No
+TKT-0297,05-27-2024 15:56:00,7.1,30/05/2024 05:44,61.8,high,40,3,Hardware,Email,Agent_Chen,T1,No,,,Yes
+TKT-0361,28/09/2024 16:58,99.8,28/09/2024 20:34,3.6,medium,40,3,Network,Portal,Agent_Jones,T1,No,,,No
+TKT-0240,2024-04-28 09:46:00,10.2,2024-05-05 04:22:00,162.6,low,45,7,Technical,Email,Agent_Brown,T2,No,,,No
+TKT-0372,10-14-2024 13:58:00,36.7,10-14-2024 21:34:00,7.6,low,45,7,Technical,Email,Agent_Smith,T1,No,,,No
+TKT-0415,30/07/2024 13:52,76.1,2024-08-02 09:16:00,67.4,medium,40,3,Account,Chat,Agent_Ali,T1,No,,,No
+TKT-0228,06-23-2024 12:56:00,,25/06/2024 13:20,48.4,medium,40,3,Network,Email,Agent_Jones,T1,No,,,No
+TKT-0404,25/11/2024 08:03,15.6,2024-11-26 02:51:00,18.8,high,40,3,Account,Phone,Agent_Kumar,T2,No,,,Yes
+TKT-0236,10-24-2024 13:30:00,52.4,2024-10-27 01:36:00,60.1,high,40,3,Network,Chat,Agent_Chen,T1,No,,,No
+TKT-0325,07-13-2024 13:40:00,32.8,,,critical,15,1,Technical,Portal,Agent_Patel,T2,No,,,No
+TKT-0095,05-13-2024 11:42:00,,17/05/2024 09:54,94.2,high,40,3,Network,Email,Agent_Smith,T3,No,,,No
+TKT-0398,05-15-2024 08:08:00,,15/05/2024 17:20,9.2,medium,40,3,Network,Email,Agent_Ali,T1,No,,,No
+TKT-0281,10-21-2024 17:01:00,6.6,10-24-2024 14:43:00,69.7,high,40,3,Account,Chat,Agent_Kumar,T1,No,,,No
+TKT-0457,22/01/2024 14:01,69.8,,,low,45,7,Technical,Phone,Agent_Smith,T1,No,,,No
+TKT-0010,23/12/2024 14:21,54.9,12-26-2024 05:57:00,63.6,high,40,3,Account,Chat,Agent_Ali,T1,No,,,No
+TKT-0408,03-05-2024 12:39:00,26.0,2024-03-08 09:33:00,68.9,low,45,7,Technical,Phone,Agent_Kumar,T1,No,,,No
+TKT-0210,07-22-2024 11:04:00,27.3,07-30-2024 05:58:00,186.9,low,45,7,Account,Portal,Agent_Ali,T2,No,,,No
+TKT-0031,09-12-2024 14:56:00,25.9,09-14-2024 20:20:00,53.4,medium,40,3,Network,Email,Agent_Brown,T1,Yes,Customer Requested,T1>T3,No
+TKT-0119,08/08/2024 10:02,92.4,08/08/2024 17:02,7.0,high,40,3,Network,Email,Agent_Sharma,T1,Yes,Manager,T1>T3,No
+TKT-0490,22/03/2024 13:23,56.9,2024-03-23 21:23:00,32.0,high,40,3,Network,Chat,Agent_Chen,T1,No,,,Yes
+TKT-0012,2024-02-22 09:24:00,40.0,23/02/2024 13:30,28.1,critical,15,1,Technical,Portal,Agent_Sharma,T2,No,,,No
+TKT-0265,21/03/2024 08:26,67.7,23/03/2024 13:26,53.0,high,40,3,Billing,Email,Agent_Kumar,T1,No,,,No
+TKT-0268,05-24-2024 15:04:00,23.2,05-27-2024 08:58:00,65.9,high,40,3,Network,Chat,Agent_Patel,T2,No,,,No
+TKT-0078,2024-01-08 09:59:00,,,,low,45,7,Hardware,Phone,Agent_Brown,T3,Yes,Customer Requested,T2>T3,Yes
+TKT-0190,08/12/2024 18:51,90.6,14/12/2024 19:51,145.0,low,45,7,Billing,Phone,Agent_Chen,T1,No,,,No
+TKT-0229,2024-12-25 12:35:00,24.0,2024-12-30 01:29:00,108.9,high,40,3,Billing,Portal,Agent_Patel,T2,No,,,No
+TKT-0424,12-06-2024 14:55:00,,12-07-2024 05:31:00,14.6,medium,40,3,Network,Email,Agent_Ali,T2,Yes,Internal,T2>T3,No
+TKT-0180,27/12/2024 11:04,26.9,01-01-2025 05:58:00,114.9,low,45,7,Network,Chat,Agent_Smith,T1,No,,,No
+TKT-0316,08-30-2024 14:24:00,14.5,08-31-2024 11:12:00,20.8,high,40,3,Technical,Chat,Agent_Patel,T2,No,,,No
+TKT-0163,2024-07-15 15:25:00,72.6,07-18-2024 12:07:00,68.7,medium,40,3,Account,Email,Agent_Chen,T3,No,,,No
+TKT-0328,2024-05-27 11:47:00,26.6,28/05/2024 20:23,32.6,medium,40,3,Technical,Phone,Agent_Brown,T1,No,,,No
+TKT-0142,17/12/2024 18:12,,26/12/2024 09:48,207.6,low,45,7,Technical,Email,Agent_Ali,T1,No,,,No
+TKT-0399,08-03-2024 16:07:00,37.8,2024-08-05 06:55:00,38.8,high,40,3,Billing,Chat,Agent_Kumar,T1,Yes,Customer Requested,T1>T3,No
+TKT-0221,09-04-2024 15:27:00,36.2,,,high,40,3,Hardware,Portal,Agent_Chen,T1,No,,,No
+TKT-0349,07-21-2024 12:00:00,29.5,2024-07-23 13:30:00,49.5,medium,40,3,Technical,Portal,Agent_Sharma,T2,No,,,No
+TKT-0050,27/02/2024 13:56,30.1,03-03-2024 01:56:00,108.0,low,45,7,Network,Email,Agent_Kumar,T1,Yes,Manager,T1>T2,No
+TKT-0393,2024-01-02 12:54:00,35.0,2024-01-03 16:54:00,28.0,medium,40,3,Network,Email,Agent_Jones,T2,No,,,No
+TKT-0272,27/11/2024 10:58,94.9,2024-11-30 04:28:00,65.5,high,40,3,Network,Portal,Agent_Brown,T1,No,,,No
+TKT-0005,2024-01-16 09:13:00,34.9,21/01/2024 14:43,125.5,low,45,7,Account,Phone,Agent_Ali,T3,No,,,No
+TKT-0386,21/05/2024 11:07,47.5,05-24-2024 07:55:00,68.8,high,40,3,Billing,Email,Agent_Chen,T2,No,,,No
+TKT-0339,24/08/2024 18:16,22.4,28/08/2024 22:34,100.3,medium,40,3,Account,Email,Agent_Jones,T2,No,,,No
+TKT-0371,04-29-2024 15:01:00,,02/05/2024 04:01,61.0,low,45,7,Technical,Portal,Agent_Chen,T2,Yes,Customer Requested,T2>T3,No
+TKT-0098,2024-08-22 13:59:00,,2024-08-23 02:23:00,12.4,medium,40,3,Billing,Email,Agent_Ali,T1,No,,,No
+TKT-0189,05/09/2024 08:24,87.3,,,medium,40,3,Network,Email,Agent_Jones,T1,No,,,No
+TKT-0407,2024-06-13 17:09:00,24.5,06-16-2024 19:27:00,74.3,medium,40,3,Network,Phone,Agent_Chen,T1,No,,,No
+TKT-0298,09-05-2024 09:01:00,40.6,09-10-2024 07:01:00,118.0,low,45,7,Account,Email,Agent_Kumar,T2,No,,,No
+TKT-0431,10-14-2024 17:39:00,103.8,10-16-2024 16:33:00,46.9,low,45,7,Billing,Chat,Agent_Patel,T1,Yes,Manager,T1>T2,No
+TKT-0259,13/07/2024 15:58,82.3,15/07/2024 00:52,32.9,medium,40,3,Network,Email,Agent_Smith,T1,Yes,Internal,T2>T3,No
+TKT-0415,30/07/2024 13:52,76.1,2024-08-02 09:16:00,67.4,medium,40,3,Account,Chat,Agent_Ali,T1,No,,,No
+TKT-0033,06/05/2024 16:34,,05-07-2024 05:58:00,13.4,low,45,7,Hardware,Email,Agent_Brown,T1,No,,,No
+TKT-0149,30/03/2024 17:36,101.2,04-07-2024 09:54:00,184.3,low,45,7,Network,Portal,Agent_Brown,T1,No,,,No
+TKT-0340,10/05/2024 18:00,,05-12-2024 21:36:00,51.6,low,45,7,Account,Email,Agent_Ali,T1,No,,,No
+TKT-0375,2024-02-29 10:02:00,30.2,2024-03-04 12:38:00,98.6,low,45,7,Billing,Email,Agent_Chen,T3,No,,,No
+TKT-0394,2024-03-07 16:16:00,5.2,,,high,40,3,Technical,Chat,Agent_Kumar,T1,No,,,No
+TKT-0070,08/08/2024 13:27,,08-09-2024 08:09:00,18.7,critical,15,1,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0155,27/03/2024 18:05,13.1,29/03/2024 12:59,42.9,critical,15,1,Technical,Chat,Agent_Brown,T2,No,,,No
+TKT-0382,17/01/2024 13:13,7.9,2024-01-18 04:55:00,15.7,high,40,3,Account,Chat,Agent_Kumar,T1,No,,,No
+TKT-0004,2024-02-14 17:27:00,62.0,02-16-2024 06:39:00,37.2,medium,40,3,Network,Phone,Agent_Kumar,T1,No,,,No
+TKT-0105,09-27-2024 08:42:00,72.1,,,critical,15,1,Billing,Portal,Agent_Chen,T3,No,,,No
+TKT-0440,06-08-2024 13:49:00,84.8,10/06/2024 19:13,53.4,low,45,7,Account,Phone,Agent_Smith,T2,No,,,No
+TKT-0053,2024-02-05 16:49:00,5.3,2024-02-06 01:07:00,8.3,critical,15,1,Account,Portal,Agent_Kumar,T1,No,,,No
+TKT-0491,17/07/2024 14:49,18.5,07-17-2024 17:49:00,3.0,medium,40,3,Network,Email,Agent_Patel,T2,Yes,Manager,T2>T3,No
+TKT-0074,2024-04-07 16:28:00,,2024-04-07 23:46:00,7.3,high,40,3,Account,Email,Agent_Brown,T2,No,,,No
+TKT-0222,2024-10-30 12:20:00,,02/11/2024 06:38,66.3,medium,40,3,Billing,Email,Agent_Sharma,T2,No,,,No
+TKT-0274,06-06-2024 17:47:00,11.7,06-07-2024 14:11:00,20.4,critical,15,1,Technical,Email,Agent_Patel,T1,No,,,No
+TKT-0100,2024-02-21 09:34:00,95.6,28/02/2024 19:22,177.8,low,45,7,Billing,Chat,Agent_Brown,T2,No,,,Yes
+TKT-0027,2024-04-22 18:20:00,62.3,2024-04-24 22:20:00,52.0,low,45,7,Technical,Portal,Agent_Ali,T2,No,,,No
+TKT-0148,08-03-2024 18:24:00,,2024-08-06 08:06:00,61.7,medium,40,3,Account,Phone,Agent_Smith,T1,No,,,Yes
+TKT-0350,12-17-2024 08:58:00,20.6,18/12/2024 08:04,23.1,medium,40,3,Account,Email,Agent_Brown,T1,No,,,No
+TKT-0154,04-19-2024 16:30:00,,,,medium,40,3,Account,Phone,Agent_Ali,T1,Yes,Manager,T2>T3,No
+TKT-0355,11-17-2024 09:57:00,28.2,2024-11-25 00:51:00,182.9,low,45,7,Billing,Chat,Agent_Ali,T2,No,,,Yes
+TKT-0418,05-10-2024 13:09:00,21.8,2024-05-13 19:21:00,78.2,medium,40,3,Hardware,Email,Agent_Jones,T1,No,,,No
+TKT-0208,23/10/2024 08:59,,,,high,40,3,Network,Chat,Agent_Brown,T1,Yes,Manager,T2>T3,No
+TKT-0257,10-12-2024 14:38:00,8.7,2024-10-14 17:56:00,51.3,critical,15,1,Account,Email,Agent_Chen,T1,Yes,Internal,T1>T3,No
+TKT-0001,11-23-2024 09:01:00,9.3,11-27-2024 17:37:00,104.6,medium,40,3,Account,Email,Agent_Sharma,T1,No,,,Yes
+TKT-0435,2024-06-28 08:11:00,7.3,07-04-2024 00:11:00,136.0,low,45,7,Billing,Email,Agent_Sharma,T2,No,,,No
+TKT-0307,2024-09-17 10:55:00,33.2,09-21-2024 21:31:00,106.6,medium,40,3,Hardware,Phone,Agent_Jones,T1,No,,,No
+TKT-0220,11-29-2024 12:39:00,22.9,2024-11-30 18:21:00,29.7,high,40,3,Account,Email,Agent_Sharma,T1,No,,,No
+TKT-0395,2024-02-26 18:55:00,28.9,2024-02-28 19:49:00,48.9,medium,40,3,Account,Email,Agent_Smith,T1,No,,,Yes
+TKT-0468,06-27-2024 13:46:00,32.7,2024-06-27 18:04:00,4.3,high,40,3,Technical,Chat,Agent_Jones,T1,No,,,No
+TKT-0479,2024-08-24 15:02:00,5.2,,,critical,15,1,Technical,Phone,Agent_Kumar,T1,Yes,Internal,T1>T3,No
+TKT-0446,20/04/2024 16:07,11.3,23/04/2024 03:55,59.8,critical,15,1,Billing,Email,Agent_Chen,T1,No,,,No
+TKT-0384,02-20-2024 18:23:00,22.7,2024-02-25 01:23:00,103.0,high,40,3,Billing,Email,Agent_Patel,T1,No,,,No
+TKT-0450,2024-07-21 17:03:00,,24/07/2024 07:39,62.6,low,45,7,Account,Phone,Agent_Sharma,T1,No,,,No
+TKT-0227,18/04/2024 13:51,,2024-04-19 23:51:00,34.0,critical,15,1,Billing,Chat,Agent_Ali,T1,No,,,No
+TKT-0113,2024-01-23 08:21:00,6.9,2024-01-23 11:09:00,2.8,critical,15,1,Account,Email,Agent_Jones,T1,No,,,No
+TKT-0380,2024-03-20 14:41:00,31.9,2024-03-28 20:23:00,197.7,low,45,7,Billing,Chat,Agent_Chen,T1,No,,,No
+TKT-0365,12-12-2024 18:25:00,11.1,12-13-2024 10:01:00,15.6,critical,15,1,Technical,Phone,Agent_Sharma,T2,Yes,Customer Requested,T2>T3,No
+TKT-0292,09-20-2024 08:42:00,95.0,2024-09-25 12:30:00,123.8,low,45,7,Account,Email,Agent_Sharma,T1,No,,,No
+TKT-0306,03-15-2024 14:12:00,7.2,03-16-2024 02:00:00,11.8,critical,15,1,Account,Portal,Agent_Ali,T2,No,,,No
+TKT-0002,2024-05-20 11:14:00,14.0,05-22-2024 21:50:00,58.6,critical,15,1,Technical,Chat,Agent_Jones,T1,No,,,No
+TKT-0081,25/03/2024 14:00,55.2,2024-03-29 05:54:00,87.9,high,40,3,Technical,Phone,Agent_Brown,T3,No,,,No
+TKT-0266,18/12/2024 17:30,18.2,19/12/2024 07:36,14.1,high,40,3,Account,Email,Agent_Sharma,T1,No,,,No
+TKT-0484,11-29-2024 11:20:00,93.9,11-30-2024 05:56:00,18.6,medium,40,3,Billing,Email,Agent_Ali,T2,Yes,Internal,T1>T3,No
+TKT-0315,29/04/2024 14:02,14.2,2024-05-01 22:44:00,56.7,high,40,3,Network,Chat,Agent_Patel,T1,Yes,Internal,T2>T3,No
+TKT-0219,08-10-2024 10:46:00,28.1,08-12-2024 18:16:00,55.5,medium,40,3,Billing,Phone,Agent_Ali,T1,No,,,No
+TKT-0198,2024-05-22 14:16:00,26.8,25/05/2024 10:52,68.6,high,40,3,Account,Portal,Agent_Ali,T1,Yes,Internal,T1>T3,No
+TKT-0461,01-11-2024 13:10:00,55.2,16/01/2024 10:28,117.3,low,45,7,Billing,Chat,Agent_Kumar,T2,No,,,No
+TKT-0286,27/06/2024 14:21,34.8,2024-06-27 19:33:00,5.2,low,45,7,Hardware,Chat,Agent_Kumar,T1,No,,,No
+TKT-0218,2024-11-21 15:45:00,32.3,2024-11-22 12:33:00,20.8,high,40,3,Hardware,Phone,Agent_Sharma,T1,No,,,Yes
+TKT-0008,08-02-2024 11:28:00,22.9,08-03-2024 23:10:00,35.7,high,40,3,Network,Phone,Agent_Smith,T1,No,,,No
+TKT-0460,01/08/2024 12:07,34.5,2024-08-03 22:07:00,58.0,low,45,7,Account,Phone,Agent_Kumar,T3,No,,,No
+TKT-0023,12-15-2024 18:04:00,25.0,2024-12-21 07:10:00,133.1,low,45,7,Hardware,Portal,Agent_Jones,T2,No,,,No
+TKT-0301,2024-07-27 09:14:00,24.6,08-05-2024 07:32:00,214.3,low,45,7,Account,Email,Agent_Chen,T1,No,,,No
+TKT-0013,02/07/2024 13:38,25.8,2024-07-07 10:26:00,116.8,high,40,3,Hardware,Portal,Agent_Ali,T1,No,,,No
+TKT-0333,30/05/2024 13:23,35.6,03/06/2024 19:05,101.7,low,45,7,Billing,Email,Agent_Jones,T1,No,,,No
+TKT-0487,2024-02-13 16:41:00,26.3,14/02/2024 02:35,9.9,low,45,7,Account,Chat,Agent_Chen,T2,No,,,No
+TKT-0217,07/09/2024 09:27,28.9,2024-09-12 01:39:00,112.2,medium,40,3,Network,Email,Agent_Patel,T1,No,,,No
+TKT-0090,02-05-2024 17:04:00,10.9,09/02/2024 17:52,96.8,medium,40,3,Billing,Email,Agent_Kumar,T1,No,,,No
+TKT-0172,16/08/2024 10:47,32.5,2024-08-18 13:17:00,50.5,low,45,7,Network,Portal,Agent_Brown,T1,No,,,Yes
+TKT-0498,06-07-2024 18:44:00,17.1,2024-06-09 22:08:00,51.4,low,45,7,Billing,Chat,Agent_Brown,T2,No,,,No
+TKT-0309,05-16-2024 08:18:00,6.1,17/05/2024 13:30,29.2,high,40,3,Technical,Email,Agent_Ali,T2,No,,,Yes
+TKT-0496,2024-11-04 10:21:00,10.3,06/11/2024 00:45,38.4,medium,40,3,Billing,Phone,Agent_Ali,T1,No,,,No
+TKT-0145,06-02-2024 16:19:00,83.1,11/06/2024 15:07,214.8,low,45,7,Billing,Email,Agent_Patel,T1,No,,,No
+TKT-0378,08-20-2024 13:42:00,26.8,29/08/2024 08:18,210.6,low,45,7,Account,Chat,Agent_Sharma,T1,Yes,Customer Requested,T1>T2,No
+TKT-0464,24/07/2024 16:05,92.3,26/07/2024 07:59,39.9,medium,40,3,Technical,Phone,Agent_Kumar,T3,No,,,No
+TKT-0347,07-02-2024 17:18:00,54.2,03/07/2024 10:42,17.4,medium,40,3,Billing,Email,Agent_Chen,T1,No,,,No
+TKT-0009,2024-05-22 08:48:00,26.0,24/05/2024 01:30,40.7,medium,40,3,Hardware,Email,Agent_Kumar,T1,Yes,Manager,T2>T3,No
+TKT-0279,09/08/2024 13:38,32.3,08-12-2024 08:08:00,66.5,high,40,3,Account,Email,Agent_Sharma,T1,No,,,Yes
+TKT-0276,18/12/2024 12:44,13.1,21/12/2024 09:14,68.5,medium,40,3,Billing,Email,Agent_Chen,T1,Yes,Manager,T1>T2,No
+TKT-0197,16/06/2024 13:48,36.6,16/06/2024 23:54,10.1,high,40,3,Technical,Portal,Agent_Sharma,T1,No,,,No
+TKT-0263,2024-05-15 18:05:00,14.4,21/05/2024 12:53,138.8,low,45,7,Billing,Email,Agent_Smith,T3,No,,,No
+TKT-0044,2024-01-02 12:32:00,,02/01/2024 14:38,2.1,critical,15,1,Account,Chat,Agent_Ali,T2,No,,,No
+TKT-0099,01-05-2024 15:39:00,75.6,12/01/2024 18:33,170.9,low,45,7,Billing,Phone,Agent_Jones,T2,No,,,No
+TKT-0485,2024-08-31 16:09:00,,2024-09-04 01:51:00,81.7,medium,40,3,Account,Email,Agent_Chen,T2,No,,,No
+TKT-0426,06-29-2024 09:36:00,89.7,,,medium,40,3,Billing,Portal,Agent_Jones,T2,No,,,No
+TKT-0184,2024-10-21 14:30:00,28.2,10-24-2024 07:24:00,64.9,high,40,3,Account,Portal,Agent_Sharma,T2,No,,,No
+TKT-0323,2024-12-20 14:41:00,31.9,12-23-2024 09:29:00,66.8,high,40,3,Technical,Portal,Agent_Brown,T1,No,,,No
+TKT-0101,16/09/2024 12:08,34.9,2024-09-25 09:26:00,213.3,low,45,7,Billing,Email,Agent_Patel,T1,No,,,No
+TKT-0421,2024-07-09 10:35:00,20.0,11/07/2024 09:29,46.9,high,40,3,Network,Email,Agent_Patel,T2,No,,,No
+TKT-0223,14/02/2024 12:56,12.9,2024-02-21 19:02:00,174.1,low,45,7,Billing,Chat,Agent_Jones,T1,No,,,No
+TKT-0465,07/06/2024 13:14,7.1,08/06/2024 06:26,17.2,critical,15,1,Technical,Portal,Agent_Kumar,T2,Yes,Customer Requested,T2>T3,Yes
+TKT-0445,06/11/2024 15:26,8.2,2024-11-08 16:14:00,48.8,high,40,3,Billing,Portal,Agent_Chen,T1,No,,,No
+TKT-0226,10/09/2024 13:11,22.4,17/09/2024 08:23,163.2,low,45,7,Network,Chat,Agent_Kumar,T3,No,,,No
+TKT-0362,25/03/2024 12:58,5.9,2024-03-26 22:58:00,34.0,medium,40,3,Technical,Email,Agent_Chen,T1,No,,,Yes
+TKT-0124,2024-05-01 10:51:00,,,,low,45,7,Technical,Phone,Agent_Patel,T2,No,,,No
+TKT-0159,2024-03-16 08:02:00,33.1,18/03/2024 08:20,48.3,low,45,7,Account,Portal,Agent_Sharma,T1,Yes,Manager,T2>T3,No
+TKT-0495,05-25-2024 12:46:00,,05-27-2024 10:16:00,45.5,medium,40,3,Technical,Chat,Agent_Brown,T2,No,,,No
+TKT-0470,05-11-2024 11:11:00,,13/05/2024 23:29,60.3,critical,15,1,Technical,Phone,Agent_Ali,T1,No,,,Yes
+TKT-0359,2024-06-16 14:11:00,7.9,,,critical,15,1,Account,Email,Agent_Jones,T1,No,,,No
+TKT-0287,2024-12-09 09:54:00,30.1,,,medium,40,3,Account,Email,Agent_Chen,T1,No,,,No
+TKT-0130,2024-06-28 12:52:00,8.1,2024-07-01 05:40:00,64.8,medium,40,3,Technical,Email,Agent_Kumar,T1,Yes,Manager,T2>T3,No
+TKT-0158,2024-12-10 12:14:00,47.8,11/12/2024 00:38,12.4,high,40,3,Technical,Portal,Agent_Brown,T1,No,,,No
+TKT-0442,03-20-2024 10:48:00,8.6,21/03/2024 04:18,17.5,critical,15,1,Account,Email,Agent_Ali,T3,Yes,Customer Requested,T1>T2,No
+TKT-0096,09/06/2024 11:16,21.3,10/06/2024 22:46,35.5,medium,40,3,Technical,Email,Agent_Kumar,T1,No,,,No
+TKT-0413,2024-11-29 16:46:00,10.9,30/11/2024 10:46,18.0,critical,15,1,Account,Email,Agent_Chen,T1,Yes,Internal,T2>T3,No
+TKT-0308,05-21-2024 14:21:00,,05-24-2024 19:27:00,77.1,medium,40,3,Hardware,Phone,Agent_Smith,T1,Yes,Customer Requested,T2>T3,No
+TKT-0075,04/08/2024 10:17,17.3,08/08/2024 10:17,96.0,high,40,3,Network,Portal,Agent_Brown,T2,No,,,No
+TKT-0215,12-04-2024 13:04:00,12.5,06/12/2024 10:10,45.1,high,40,3,Technical,Phone,Agent_Ali,T1,Yes,Customer Requested,T1>T3,No
+TKT-0060,06/05/2024 11:04,20.0,05-08-2024 00:52:00,37.8,medium,40,3,Account,Chat,Agent_Sharma,T1,No,,,No
+TKT-0500,13/02/2024 12:35,6.0,16/02/2024 08:59,68.4,critical,15,1,Technical,Portal,Agent_Sharma,T1,No,,,No
+TKT-0270,2024-10-28 18:51:00,54.0,2024-11-04 11:51:00,161.0,low,45,7,Network,Email,Agent_Chen,T2,Yes,Manager,T1>T2,No
+TKT-0183,2024-07-18 17:44:00,25.5,20/07/2024 01:38,31.9,critical,15,1,Billing,Chat,Agent_Brown,T1,No,,,No
+TKT-0059,2024-08-12 16:28:00,36.2,20/08/2024 12:04,187.6,low,45,7,Network,Chat,Agent_Patel,T1,No,,,Yes
+TKT-0040,2024-09-27 12:35:00,64.4,28/09/2024 21:11,32.6,medium,40,3,Billing,Email,Agent_Patel,T1,No,,,No
+TKT-0064,04/02/2024 08:55,11.1,05/02/2024 01:13,16.3,medium,40,3,Billing,Chat,Agent_Chen,T1,Yes,Internal,T2>T3,No
+TKT-0429,07/07/2024 09:48,32.7,2024-07-11 20:12:00,106.4,medium,40,3,Account,Chat,Agent_Jones,T2,No,,,Yes
+TKT-0389,06-19-2024 11:08:00,30.2,20/06/2024 21:08,34.0,high,40,3,Billing,Portal,Agent_Ali,T1,No,,,No
+TKT-0356,26/11/2024 08:19,28.6,11-30-2024 20:01:00,107.7,medium,40,3,Billing,Portal,Agent_Patel,T1,Yes,Customer Requested,T2>T3,No
+TKT-0067,08/03/2024 17:36,22.4,17/03/2024 01:48,200.2,low,45,7,Technical,Email,Agent_Smith,T1,Yes,Manager,T1>T2,No
+TKT-0246,04-01-2024 12:00:00,68.1,04-01-2024 22:30:00,10.5,critical,15,1,Network,Chat,Agent_Jones,T2,No,,,No
+TKT-0192,14/11/2024 16:01,36.8,11-15-2024 21:37:00,29.6,high,40,3,Technical,Chat,Agent_Sharma,T1,No,,,No
+TKT-0020,07-13-2024 12:29:00,76.4,07-20-2024 23:41:00,179.2,low,45,7,Billing,Email,Agent_Brown,T1,No,,,No
+TKT-0216,27/11/2024 13:00,22.7,12-05-2024 14:54:00,193.9,low,45,7,Hardware,Email,Agent_Kumar,T1,No,,,No
+TKT-0322,08-28-2024 12:21:00,23.4,08-31-2024 02:51:00,62.5,high,40,3,Billing,Email,Agent_Jones,T1,No,,,No
+TKT-0448,12-13-2024 17:31:00,21.8,2024-12-14 02:55:00,9.4,high,40,3,Hardware,Phone,Agent_Brown,T2,Yes,Customer Requested,T1>T2,No
+TKT-0066,12-08-2024 15:13:00,29.4,2024-12-10 21:55:00,54.7,medium,40,3,Account,Phone,Agent_Jones,T3,No,,,No
+TKT-0082,15/05/2024 15:18,9.0,05-16-2024 22:54:00,31.6,medium,40,3,Hardware,Email,Agent_Brown,T2,No,,,Yes
+TKT-0357,01-18-2024 17:23:00,71.9,,,low,45,7,Billing,Portal,Agent_Jones,T2,Yes,Internal,T1>T3,Yes
+TKT-0049,2024-11-02 13:31:00,9.5,03/11/2024 04:25,14.9,medium,40,3,Technical,Portal,Agent_Ali,T1,No,,,Yes
+TKT-0417,06-09-2024 14:20:00,35.4,09/06/2024 23:56,9.6,low,45,7,Technical,Email,Agent_Chen,T2,No,,,No
+TKT-0116,2024-10-14 08:07:00,89.4,15/10/2024 16:19,32.2,high,40,3,Hardware,Chat,Agent_Smith,T3,No,,,Yes
+TKT-0079,26/03/2024 14:31,,03-28-2024 21:43:00,55.2,medium,40,3,Technical,Email,Agent_Ali,T2,No,,,No
+TKT-0351,2024-09-11 12:49:00,,09-13-2024 20:49:00,56.0,medium,40,3,Billing,Portal,Agent_Kumar,T3,No,,,No
+TKT-0320,2024-08-21 08:46:00,41.2,08-22-2024 20:46:00,36.0,low,45,7,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0494,18/02/2024 16:43,54.6,02-22-2024 11:13:00,90.5,low,45,7,Account,Email,Agent_Chen,T3,No,,,No
+TKT-0204,08-30-2024 18:07:00,18.8,31/08/2024 16:01,21.9,high,40,3,Billing,Email,Agent_Smith,T2,No,,,No
+TKT-0383,15/08/2024 11:54,16.8,2024-08-16 06:00:00,18.1,medium,40,3,Billing,Portal,Agent_Patel,T1,No,,,Yes
+TKT-0022,04-17-2024 18:17:00,54.6,2024-04-23 03:35:00,129.3,low,45,7,Technical,Email,Agent_Chen,T2,No,,,No
+TKT-0136,2024-04-01 17:16:00,18.7,02/04/2024 01:22,8.1,medium,40,3,Technical,Email,Agent_Patel,T1,No,,,No
+TKT-0224,05-04-2024 15:36:00,92.0,2024-05-05 03:00:00,11.4,medium,40,3,Account,Portal,Agent_Patel,T1,Yes,Manager,T1>T3,No
+TKT-0282,2024-05-17 17:02:00,5.6,05-21-2024 20:02:00,99.0,medium,40,3,Technical,Phone,Agent_Smith,T1,No,,,No
+TKT-0280,01-14-2024 09:14:00,15.9,01-16-2024 12:14:00,51.0,high,40,3,Account,Chat,Agent_Sharma,T2,No,,,No
+TKT-0278,2024-08-12 09:38:00,17.2,08-14-2024 21:38:00,60.0,medium,40,3,Account,Portal,Agent_Kumar,T3,No,,,No
+TKT-0298,09-05-2024 09:01:00,40.6,09-10-2024 07:01:00,118.0,low,45,7,Account,Email,Agent_Kumar,T2,No,,,No
+TKT-0146,07-28-2024 13:25:00,52.1,08-02-2024 15:25:00,122.0,low,45,7,Network,Portal,Agent_Kumar,T2,No,,,No
+TKT-0057,19/12/2024 11:45,38.6,12-19-2024 18:33:00,6.8,low,45,7,Billing,Phone,Agent_Brown,T2,No,,,Yes
+TKT-0030,10-17-2024 13:13:00,37.4,10-21-2024 04:31:00,87.3,low,45,7,Network,Phone,Agent_Patel,T2,Yes,Manager,T1>T2,Yes
+TKT-0447,08-08-2024 09:18:00,8.6,08-08-2024 15:48:00,6.5,critical,15,1,Billing,Phone,Agent_Patel,T1,No,,,No
+TKT-0181,27/07/2024 13:34,85.7,07-29-2024 13:34:00,48.0,medium,40,3,Network,Portal,Agent_Smith,T1,No,,,No
+TKT-0405,2024-07-24 14:43:00,65.5,07-28-2024 20:13:00,101.5,medium,40,3,Technical,Phone,Agent_Ali,T1,No,,,No
+TKT-0131,2024-04-24 08:42:00,13.2,,,medium,40,3,Account,Phone,Agent_Kumar,T2,No,,,No
+TKT-0015,12/07/2024 09:35,35.6,18/07/2024 18:35,153.0,low,45,7,Billing,Phone,Agent_Kumar,T1,No,,,No
+TKT-0173,2024-08-18 12:48:00,21.3,19/08/2024 09:12,20.4,medium,40,3,Billing,Chat,Agent_Ali,T2,No,,,No
+TKT-0250,22/02/2024 08:36,34.7,27/02/2024 01:36,113.0,high,40,3,Account,Chat,Agent_Ali,T1,No,,,No
+TKT-0194,2024-02-12 18:27:00,11.3,2024-02-16 11:45:00,89.3,medium,40,3,Billing,Chat,Agent_Ali,T2,No,,,No
+TKT-0294,22/09/2024 13:39,,25/09/2024 07:33,65.9,medium,40,3,Account,Phone,Agent_Ali,T1,No,,,No
+TKT-0374,25/08/2024 12:41,10.7,2024-08-27 03:47:00,39.1,high,40,3,Technical,Chat,Agent_Brown,T1,No,,,No
+TKT-0157,2024-06-20 09:52:00,38.0,21/06/2024 18:04,32.2,high,40,3,Technical,Email,Agent_Kumar,T3,Yes,Manager,T2>T3,No
+TKT-0300,06-08-2024 16:00:00,89.7,2024-06-10 17:48:00,49.8,low,45,7,Hardware,Phone,Agent_Ali,T1,Yes,Internal,T2>T3,Yes
+TKT-0199,08-28-2024 08:47:00,9.6,,,high,40,3,Billing,Phone,Agent_Smith,T1,Yes,Internal,T1>T3,Yes
+TKT-0233,2024-09-08 15:50:00,23.4,12/09/2024 12:14,92.4,medium,40,3,Account,Email,Agent_Brown,T1,No,,,No
+TKT-0293,2024-08-24 14:03:00,,08-25-2024 07:39:00,17.6,high,40,3,Technical,Chat,Agent_Smith,T1,Yes,Customer Requested,T2>T3,No
+TKT-0439,20/08/2024 13:10,91.4,2024-08-24 20:16:00,103.1,high,40,3,Billing,Email,Agent_Patel,T2,Yes,Customer Requested,T1>T3,No
+TKT-0343,06-02-2024 18:27:00,72.8,06-10-2024 04:45:00,178.3,low,45,7,Billing,Portal,Agent_Sharma,T1,No,,,No
+TKT-0243,09-04-2024 12:46:00,13.8,09-05-2024 05:16:00,16.5,critical,15,1,Account,Phone,Agent_Sharma,T2,No,,,No
+TKT-0169,12-07-2024 16:35:00,36.3,2024-12-10 11:29:00,66.9,low,45,7,Billing,Email,Agent_Jones,T1,No,,,Yes
+TKT-0080,2024-04-19 14:57:00,15.9,04-22-2024 05:57:00,63.0,low,45,7,Technical,Portal,Agent_Brown,T1,No,,,Yes
+TKT-0086,04/10/2024 08:47,38.9,10-08-2024 20:17:00,107.5,medium,40,3,Billing,Chat,Agent_Ali,T2,Yes,Customer Requested,T1>T3,No
+TKT-0249,05/03/2024 18:55,52.7,,,critical,15,1,Hardware,Portal,Agent_Ali,T1,No,,,No
+TKT-0368,08-20-2024 13:43:00,9.0,2024-08-20 22:37:00,8.9,critical,15,1,Billing,Portal,Agent_Jones,T2,No,,,No
+TKT-0065,06/02/2024 16:15,68.0,,,low,45,7,Technical,Chat,Agent_Jones,T1,No,,,No
+TKT-0425,27/01/2024 12:38,8.4,01-31-2024 19:44:00,103.1,low,45,7,Technical,Portal,Agent_Patel,T1,No,,,No
+TKT-0120,05/07/2024 08:57,16.7,2024-07-07 14:57:00,54.0,medium,40,3,Account,Email,Agent_Sharma,T2,Yes,Manager,T1>T3,No
+TKT-0437,2024-03-13 18:01:00,,20/03/2024 10:37,160.6,low,45,7,Billing,Email,Agent_Smith,T2,No,,,No
+TKT-0156,09-20-2024 18:40:00,28.3,2024-09-21 16:16:00,21.6,low,45,7,Billing,Phone,Agent_Patel,T1,No,,,No
+TKT-0267,01-17-2024 11:18:00,7.7,18/01/2024 01:36,14.3,high,40,3,Network,Chat,Agent_Kumar,T1,No,,,Yes
+TKT-0144,2024-11-15 13:42:00,24.0,,,medium,40,3,Technical,Chat,Agent_Smith,T1,No,,,No
+TKT-0117,2024-12-19 10:34:00,28.4,12-21-2024 22:10:00,59.6,high,40,3,Billing,Email,Agent_Ali,T1,No,,,No
+TKT-0029,2024-07-24 12:04:00,47.1,2024-07-28 02:58:00,86.9,medium,40,3,Billing,Email,Agent_Brown,T1,Yes,Customer Requested,T1>T2,No
+TKT-0392,06-17-2024 10:50:00,81.2,06-20-2024 04:26:00,65.6,medium,40,3,Network,Email,Agent_Ali,T1,No,,,Yes
+TKT-0253,28/02/2024 09:25,,29/02/2024 02:49,17.4,high,40,3,Account,Email,Agent_Smith,T3,No,,,No
+TKT-0251,28/08/2024 15:28,74.1,2024-09-05 16:04:00,192.6,low,45,7,Billing,Phone,Agent_Brown,T1,No,,,No
+TKT-0025,05/05/2024 10:29,36.6,05-06-2024 11:41:00,25.2,medium,40,3,Network,Portal,Agent_Patel,T2,No,,,No
+TKT-0171,09-15-2024 14:53:00,37.0,09-18-2024 02:41:00,59.8,high,40,3,Billing,Chat,Agent_Patel,T2,No,,,No
+TKT-0396,2024-03-08 08:22:00,12.2,03-11-2024 03:52:00,67.5,critical,15,1,Billing,Phone,Agent_Brown,T2,No,,,No
+TKT-0062,2024-10-28 11:00:00,36.1,01/11/2024 06:24,91.4,low,45,7,Billing,Portal,Agent_Jones,T2,No,,,No
+TKT-0241,06-10-2024 09:47:00,74.6,11/06/2024 06:17,20.5,critical,15,1,Technical,Portal,Agent_Chen,T2,No,,,No
+TKT-0193,2024-10-30 17:42:00,,10-30-2024 21:54:00,4.2,critical,15,1,Technical,Email,Agent_Brown,T2,Yes,Manager,T1>T3,No
+TKT-0103,03-21-2024 15:53:00,33.3,,,medium,40,3,Billing,Portal,Agent_Brown,T2,No,,,No
+TKT-0007,04-11-2024 18:44:00,24.8,04-12-2024 06:20:00,11.6,low,45,7,Hardware,Phone,Agent_Jones,T3,Yes,Manager,T1>T3,No
+TKT-0269,04-29-2024 12:50:00,65.7,04-30-2024 21:20:00,32.5,medium,40,3,Technical,Chat,Agent_Sharma,T1,No,,,No
+TKT-0071,08-27-2024 08:43:00,22.4,29/08/2024 10:55,50.2,high,40,3,Technical,Email,Agent_Smith,T1,Yes,Internal,T2>T3,No
+TKT-0017,2024-10-22 11:45:00,31.2,10-26-2024 00:03:00,84.3,medium,40,3,Technical,Email,Agent_Brown,T2,No,,,No
+TKT-0128,2024-02-25 14:55:00,11.5,,,high,40,3,Account,Chat,Agent_Sharma,T1,No,,,No
+TKT-0481,02-16-2024 17:38:00,66.5,17/02/2024 13:38,20.0,medium,40,3,Technical,Phone,Agent_Chen,T2,No,,,No
+TKT-0048,2024-10-03 16:58:00,8.5,,,medium,40,3,Account,Email,Agent_Chen,T1,Yes,Internal,T1>T3,Yes
+TKT-0402,2024-09-14 11:39:00,6.6,15/09/2024 06:03,18.4,critical,15,1,Billing,Email,Agent_Sharma,T1,No,,,No
+TKT-0329,08-10-2024 09:48:00,12.8,08-14-2024 18:48:00,105.0,medium,40,3,Account,Phone,Agent_Chen,T3,No,,,No
+TKT-0499,07-19-2024 10:38:00,7.1,19/07/2024 14:38,4.0,critical,15,1,Hardware,Chat,Agent_Jones,T1,No,,,No
+TKT-0469,2024-03-16 11:06:00,31.4,25/03/2024 02:30,207.4,low,45,7,Account,Portal,Agent_Brown,T2,Yes,Customer Requested,T1>T3,No
+TKT-0326,09-06-2024 16:02:00,,,,high,40,3,Hardware,Email,Agent_Chen,T2,Yes,Manager,T1>T3,No
+TKT-0018,24/01/2024 18:14,19.2,25/01/2024 00:02,5.8,medium,40,3,Network,Chat,Agent_Patel,T1,No,,,No
+TKT-0195,24/08/2024 10:03,14.8,2024-08-28 08:51:00,94.8,medium,40,3,Billing,Email,Agent_Chen,T2,No,,,No
+TKT-0019,2024-02-10 11:55:00,78.3,2024-02-11 10:37:00,22.7,medium,40,3,Hardware,Portal,Agent_Sharma,T1,No,,,No
+TKT-0175,05/09/2024 18:15,23.5,2024-09-10 07:27:00,109.2,medium,40,3,Technical,Chat,Agent_Patel,T2,No,,,No
+TKT-0342,02-07-2024 15:22:00,31.7,02-11-2024 01:52:00,82.5,medium,40,3,Account,Chat,Agent_Chen,T3,No,,,No
+TKT-0072,26/11/2024 09:03,51.7,2024-11-30 07:33:00,94.5,low,45,7,Network,Email,Agent_Chen,T1,Yes,Customer Requested,T1>T2,No
+TKT-0152,23/10/2024 17:41,27.0,2024-10-29 13:35:00,139.9,low,45,7,Technical,Phone,Agent_Chen,T1,Yes,Manager,T1>T2,Yes
+TKT-0346,02-24-2024 11:24:00,59.8,28/02/2024 16:06,100.7,medium,40,3,Technical,Chat,Agent_Chen,T2,No,,,No
+TKT-0147,2024-05-31 16:08:00,22.7,04/06/2024 03:50,83.7,medium,40,3,Account,Phone,Agent_Jones,T2,Yes,Manager,T1>T3,No
+TKT-0453,04/01/2024 15:47,96.1,01-05-2024 01:47:00,10.0,medium,40,3,Billing,Portal,Agent_Kumar,T1,Yes,Internal,T1>T2,No
+TKT-0332,2024-01-24 13:50:00,49.0,2024-01-29 10:32:00,116.7,high,40,3,Technical,Phone,Agent_Kumar,T1,No,,,No
+TKT-0477,2024-06-04 12:37:00,85.5,10/06/2024 23:43,155.1,low,45,7,Account,Phone,Agent_Brown,T1,No,,,Yes
+TKT-0444,14/08/2024 18:27,24.8,08-15-2024 20:09:00,25.7,medium,40,3,Network,Chat,Agent_Kumar,T1,Yes,Internal,T1>T3,No
+TKT-0167,2024-10-12 11:58:00,20.6,13/10/2024 18:40,30.7,medium,40,3,Billing,Phone,Agent_Chen,T2,Yes,Manager,T1>T3,No
+TKT-0206,07-07-2024 10:38:00,,09/07/2024 20:32,57.9,low,45,7,Hardware,Phone,Agent_Chen,T3,No,,,No
+TKT-0011,20/03/2024 11:48,40.2,2024-03-24 01:18:00,85.5,low,45,7,Account,Email,Agent_Jones,T1,No,,,No
+TKT-0028,27/04/2024 08:51,84.3,2024-04-28 20:15:00,35.4,medium,40,3,Technical,Phone,Agent_Ali,T1,No,,,No
+TKT-0474,25/11/2024 18:39,9.8,26/11/2024 15:33,20.9,high,40,3,Billing,Chat,Agent_Sharma,T1,No,,,No
+TKT-0201,2024-02-05 18:02:00,27.0,2024-02-05 20:20:00,2.3,medium,40,3,Technical,Phone,Agent_Patel,T1,No,,,No
+TKT-0162,10-21-2024 11:45:00,19.2,22/10/2024 07:33,19.8,medium,40,3,Hardware,Email,Agent_Smith,T2,No,,,No
+TKT-0115,14/08/2024 16:45,26.8,15/08/2024 20:51,28.1,medium,40,3,Network,Chat,Agent_Jones,T3,No,,,No
+TKT-0456,08/12/2024 13:04,34.7,12-09-2024 22:16:00,33.2,medium,40,3,Technical,Portal,Agent_Sharma,T3,No,,,No
+TKT-0122,02-22-2024 13:49:00,,02-25-2024 08:19:00,66.5,high,40,3,Billing,Portal,Agent_Smith,T1,Yes,Internal,T1>T3,No
+TKT-0235,12-20-2024 11:19:00,23.4,12-21-2024 07:07:00,19.8,low,45,7,Technical,Phone,Agent_Jones,T1,Yes,Internal,T1>T3,No
+TKT-0126,06-19-2024 14:51:00,19.2,2024-06-20 23:15:00,32.4,medium,40,3,Technical,Chat,Agent_Kumar,T1,Yes,Customer Requested,T1>T2,No
+TKT-0438,28/09/2024 11:24,,01/10/2024 00:42,61.3,high,40,3,Hardware,Phone,Agent_Brown,T2,Yes,Manager,T1>T3,No
+TKT-0289,05-27-2024 18:25:00,,06-03-2024 14:43:00,164.3,low,45,7,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0246,04-01-2024 12:00:00,68.1,04-01-2024 22:30:00,10.5,critical,15,1,Network,Chat,Agent_Jones,T2,No,,,No
+TKT-0337,2024-07-14 17:43:00,,07-15-2024 15:37:00,21.9,high,40,3,Hardware,Email,Agent_Jones,T1,No,,,Yes
+TKT-0458,09/02/2024 13:36,,09/02/2024 21:42,8.1,medium,40,3,Billing,Phone,Agent_Ali,T2,No,,,No
+TKT-0211,2024-12-19 18:15:00,13.0,12-21-2024 16:03:00,45.8,medium,40,3,Network,Chat,Agent_Smith,T1,No,,,No
+TKT-0108,10/10/2024 10:17,8.2,10-14-2024 06:23:00,92.1,high,40,3,Technical,Phone,Agent_Kumar,T1,No,,,Yes
+TKT-0134,07-23-2024 18:53:00,50.9,2024-07-24 03:47:00,8.9,medium,40,3,Technical,Email,Agent_Smith,T2,No,,,No
+TKT-0085,04-21-2024 08:37:00,49.1,04-22-2024 12:07:00,27.5,medium,40,3,Account,Portal,Agent_Jones,T2,No,,,Yes
+TKT-0104,12-26-2024 12:39:00,10.5,2024-12-31 07:33:00,114.9,medium,40,3,Billing,Portal,Agent_Chen,T2,No,,,No
+TKT-0247,2024-09-30 10:17:00,81.3,02/10/2024 10:35,48.3,medium,40,3,Technical,Email,Agent_Kumar,T3,Yes,Internal,T2>T3,No
+TKT-0045,09-16-2024 09:55:00,71.3,16/09/2024 16:07,6.2,low,45,7,Account,Portal,Agent_Chen,T1,No,,,Yes
+TKT-0112,17/02/2024 18:27,102.2,,,low,45,7,Network,Email,Agent_Brown,T2,No,,,No
+TKT-0353,04-07-2024 17:16:00,17.9,09/04/2024 03:52,34.6,high,40,3,Billing,Chat,Agent_Smith,T1,Yes,Customer Requested,T2>T3,No
+TKT-0160,2024-08-31 17:54:00,32.9,,,high,40,3,Account,Email,Agent_Patel,T1,No,,,No
+TKT-0141,08-11-2024 08:33:00,10.5,13/08/2024 08:27,47.9,critical,15,1,Billing,Phone,Agent_Jones,T1,Yes,Manager,T1>T2,No
+TKT-0334,15/03/2024 11:33,19.1,03-18-2024 06:09:00,66.6,low,45,7,Billing,Portal,Agent_Kumar,T3,No,,,No
+TKT-0165,2024-02-24 14:14:00,25.2,2024-02-28 19:02:00,100.8,low,45,7,Billing,Email,Agent_Ali,T1,No,,,No
+TKT-0239,20/08/2024 12:19,7.7,,,medium,40,3,Technical,Portal,Agent_Jones,T1,No,,,No
+TKT-0285,21/11/2024 15:05,75.3,22/11/2024 12:05,21.0,medium,40,3,Billing,Email,Agent_Ali,T2,No,,,No
+TKT-0400,02/02/2024 15:28,18.3,02-04-2024 13:52:00,46.4,high,40,3,Billing,Phone,Agent_Kumar,T2,No,,,No
+TKT-0313,05/10/2024 14:29,39.9,10-07-2024 07:23:00,40.9,low,45,7,Billing,Chat,Agent_Smith,T2,No,,,Yes
+TKT-0076,05-07-2024 09:28:00,53.4,05-07-2024 19:34:00,10.1,high,40,3,Hardware,Chat,Agent_Kumar,T1,No,,,No
+TKT-0087,30/01/2024 08:37,38.5,02-02-2024 07:13:00,70.6,high,40,3,Billing,Chat,Agent_Jones,T1,No,,,No
+TKT-0261,10-18-2024 17:03:00,22.8,10-20-2024 12:03:00,43.0,medium,40,3,Billing,Email,Agent_Sharma,T1,No,,,Yes
+TKT-0118,2024-07-08 17:35:00,23.1,,,low,45,7,Technical,Portal,Agent_Jones,T1,No,,,No
+TKT-0406,2024-09-08 15:04:00,,2024-09-13 01:40:00,106.6,high,40,3,Network,Chat,Agent_Brown,T1,Yes,Internal,T2>T3,No
+TKT-0483,01-22-2024 15:58:00,13.2,2024-01-23 05:52:00,13.9,medium,40,3,Billing,Chat,Agent_Ali,T3,Yes,Internal,T1>T2,Yes
+TKT-0035,2024-07-23 13:14:00,26.7,25/07/2024 04:38,39.4,critical,15,1,Network,Email,Agent_Kumar,T2,No,,,No
+TKT-0489,08-12-2024 16:33:00,,13/08/2024 13:03,20.5,critical,15,1,Billing,Chat,Agent_Jones,T1,Yes,Manager,T2>T3,No
+TKT-0006,09-15-2024 17:01:00,11.0,24/09/2024 12:25,211.4,low,45,7,Billing,Phone,Agent_Ali,T2,No,,,No
+TKT-0427,18/04/2024 10:42,28.4,21/04/2024 19:54,81.2,medium,40,3,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0317,2024-11-29 10:31:00,11.1,01/12/2024 19:43,57.2,medium,40,3,Account,Chat,Agent_Kumar,T1,No,,,No
+TKT-0213,11-03-2024 09:50:00,35.2,07/11/2024 19:32,105.7,high,40,3,Technical,Email,Agent_Jones,T2,No,,,No
+TKT-0097,08/03/2024 18:41,24.5,03-11-2024 05:41:00,59.0,medium,40,3,Account,Email,Agent_Sharma,T1,No,,,No
+TKT-0336,03-28-2024 10:05:00,34.7,04-02-2024 15:05:00,125.0,low,45,7,Technical,Phone,Agent_Smith,T1,No,,,No
+TKT-0433,2024-12-02 12:01:00,32.7,2024-12-02 20:31:00,8.5,medium,40,3,Hardware,Chat,Agent_Ali,T1,No,,,Yes
+TKT-0463,02-24-2024 11:27:00,5.3,2024-02-25 04:27:00,17.0,high,40,3,Billing,Email,Agent_Kumar,T1,Yes,Customer Requested,T1>T2,No
+TKT-0177,30/04/2024 12:21,47.3,03/05/2024 15:33,75.2,high,40,3,Billing,Phone,Agent_Chen,T1,No,,,Yes
+TKT-0110,14/04/2024 18:40,40.2,,,low,45,7,Account,Email,Agent_Jones,T2,No,,,No
+TKT-0036,2024-09-17 15:05:00,26.2,20/09/2024 02:17,59.2,high,40,3,Hardware,Phone,Agent_Brown,T2,Yes,Internal,T1>T2,No
+TKT-0352,11-06-2024 13:14:00,,2024-11-09 01:02:00,59.8,high,40,3,Account,Chat,Agent_Chen,T1,No,,,Yes
+TKT-0055,03-25-2024 12:33:00,18.5,03-25-2024 15:39:00,3.1,medium,40,3,Network,Portal,Agent_Patel,T1,Yes,Manager,T1>T2,No
+TKT-0032,2024-08-22 10:16:00,61.9,,,low,45,7,Hardware,Chat,Agent_Sharma,T3,No,,,No
+TKT-0302,2024-08-24 09:41:00,37.0,08-25-2024 16:41:00,31.0,medium,40,3,Billing,Portal,Agent_Kumar,T1,No,,,Yes
+TKT-0478,29/06/2024 16:04,29.5,2024-07-02 04:28:00,60.4,medium,40,3,Billing,Phone,Agent_Patel,T1,No,,,No
+TKT-0414,2024-08-08 15:56:00,29.1,08-10-2024 15:02:00,47.1,medium,40,3,Technical,Email,Agent_Sharma,T2,No,,,No
+TKT-0364,2024-08-27 09:09:00,7.4,2024-08-31 10:15:00,97.1,medium,40,3,Technical,Chat,Agent_Jones,T2,Yes,Customer Requested,T1>T2,No
+TKT-0344,08/05/2024 15:54,24.0,05-11-2024 10:12:00,66.3,medium,40,3,Hardware,Phone,Agent_Jones,T1,No,,,No
+TKT-0052,10/02/2024 09:46,52.4,2024-02-12 19:28:00,57.7,high,40,3,Network,Chat,Agent_Ali,T2,No,,,No
+TKT-0449,2024-12-07 12:02:00,23.6,12-09-2024 08:02:00,44.0,medium,40,3,Network,Portal,Agent_Sharma,T1,Yes,Internal,T1>T2,No
+TKT-0397,2024-10-28 13:01:00,11.7,,,high,40,3,Technical,Chat,Agent_Kumar,T1,No,,,No
+TKT-0277,19/05/2024 16:34,20.9,05-23-2024 13:34:00,93.0,high,40,3,Billing,Email,Agent_Ali,T2,No,,,No
+TKT-0153,08-26-2024 15:28:00,68.2,,,low,45,7,Account,Phone,Agent_Sharma,T2,No,,,No
+TKT-0023,12-15-2024 18:04:00,25.0,2024-12-21 07:10:00,133.1,low,45,7,Hardware,Portal,Agent_Jones,T2,No,,,No
+TKT-0234,17/02/2024 12:14,,20/02/2024 00:44,60.5,medium,40,3,Technical,Email,Agent_Kumar,T1,No,,,No
+TKT-0312,09-04-2024 13:21:00,17.9,2024-09-11 09:15:00,163.9,low,45,7,Network,Portal,Agent_Smith,T1,Yes,Manager,T1>T3,No
+TKT-0201,2024-02-05 18:02:00,27.0,2024-02-05 20:20:00,2.3,medium,40,3,Technical,Phone,Agent_Patel,T1,No,,,No
+TKT-0140,04-07-2024 12:02:00,9.9,10/04/2024 06:56,66.9,critical,15,1,Technical,Chat,Agent_Brown,T3,No,,,No
+TKT-0196,13/07/2024 13:13,,18/07/2024 02:25,109.2,medium,40,3,Account,Portal,Agent_Kumar,T1,No,,,No
+TKT-0391,2024-04-16 17:13:00,12.2,19/04/2024 01:31,56.3,critical,15,1,Account,Email,Agent_Sharma,T2,Yes,Manager,T1>T3,No
+TKT-0473,10-23-2024 15:43:00,22.3,10-31-2024 20:13:00,196.5,low,45,7,Account,Portal,Agent_Chen,T1,No,,,No
+TKT-0291,09/05/2024 13:07,25.4,12/05/2024 01:37,60.5,low,45,7,Billing,Chat,Agent_Brown,T2,No,,,No
+TKT-0083,12-22-2024 16:42:00,12.3,12-23-2024 05:54:00,13.2,medium,40,3,Technical,Chat,Agent_Sharma,T1,Yes,Manager,T1>T2,No
+TKT-0084,06/09/2024 10:12,43.9,2024-09-11 21:48:00,131.6,low,45,7,Technical,Portal,Agent_Smith,T2,No,,,No
+TKT-0303,09-12-2024 12:32:00,22.8,2024-09-17 05:26:00,112.9,medium,40,3,Account,Email,Agent_Smith,T1,No,,,No
+TKT-0109,05/11/2024 11:45,27.6,13/11/2024 06:21,186.6,low,45,7,Technical,Phone,Agent_Smith,T2,No,,,No
+TKT-0388,2024-11-23 17:01:00,,2024-11-25 17:07:00,48.1,low,45,7,Billing,Email,Agent_Ali,T2,No,,,No
+TKT-0021,05/07/2024 10:23,29.2,06/07/2024 04:23,18.0,medium,40,3,Account,Phone,Agent_Chen,T1,No,,,Yes
+TKT-0492,12-13-2024 17:03:00,31.1,16/12/2024 06:33,61.5,medium,40,3,Account,Chat,Agent_Ali,T1,No,,,No
+TKT-0202,2024-05-06 11:53:00,68.5,11/05/2024 07:59,116.1,low,45,7,Billing,Email,Agent_Smith,T1,No,,,No
+TKT-0133,05-22-2024 13:41:00,31.2,05-28-2024 01:17:00,131.6,low,45,7,Technical,Email,Agent_Jones,T2,No,,,No
+TKT-0423,09/12/2024 09:26,98.1,12-10-2024 19:56:00,34.5,low,45,7,Network,Email,Agent_Patel,T1,No,,,No
+TKT-0454,03-30-2024 10:24:00,13.9,03-30-2024 23:18:00,12.9,critical,15,1,Hardware,Chat,Agent_Kumar,T1,No,,,Yes
+TKT-0102,05/02/2024 11:23,,02-08-2024 02:53:00,63.5,medium,40,3,Technical,Portal,Agent_Ali,T2,No,,,No
+TKT-0385,26/11/2024 13:03,84.7,2024-11-29 22:45:00,81.7,high,40,3,Network,Phone,Agent_Smith,T2,Yes,Internal,T2>T3,No
+TKT-0121,04-17-2024 18:15:00,22.5,20/04/2024 04:33,58.3,high,40,3,Billing,Portal,Agent_Sharma,T2,No,,,No
+TKT-0242,2024-12-19 10:12:00,73.8,,,critical,15,1,Technical,Phone,Agent_Kumar,T1,No,,,No
+TKT-0003,02-22-2024 18:47:00,81.9,,,high,40,3,Technical,Portal,Agent_Chen,T1,No,,,No
+TKT-0311,09-07-2024 10:28:00,7.8,09/09/2024 06:46,44.3,medium,40,3,Hardware,Email,Agent_Patel,T1,No,,,No
+TKT-0129,28/08/2024 11:12,23.2,2024-09-03 04:42:00,137.5,low,45,7,Billing,Chat,Agent_Patel,T1,No,,,No
+TKT-0207,2024-02-28 10:19:00,41.5,08/03/2024 07:55,213.6,low,45,7,Technical,Phone,Agent_Smith,T2,Yes,Internal,T1>T3,No
+TKT-0324,06-17-2024 18:54:00,91.0,2024-06-26 05:54:00,203.0,low,45,7,Technical,Email,Agent_Chen,T2,No,,,No
+TKT-0088,2024-09-14 16:10:00,23.7,,,medium,40,3,Billing,Email,Agent_Sharma,T1,No,,,No
+TKT-0310,06-01-2024 17:37:00,23.6,04/06/2024 01:43,56.1,low,45,7,Billing,Phone,Agent_Jones,T1,No,,,No
+TKT-0067,08/03/2024 17:36,22.4,17/03/2024 01:48,200.2,low,45,7,Technical,Email,Agent_Smith,T1,Yes,Manager,T1>T2,No
+TKT-0467,2024-02-28 16:32:00,70.2,05/03/2024 03:56,131.4,low,45,7,Account,Portal,Agent_Brown,T2,No,,,No
+TKT-0135,18/06/2024 08:07,,2024-06-19 01:49:00,17.7,critical,15,1,Billing,Phone,Agent_Jones,T1,No,,,No
+TKT-0256,2024-06-04 09:15:00,93.2,,,medium,40,3,Network,Chat,Agent_Jones,T2,No,,,Yes
+TKT-0214,22/01/2024 13:34,29.9,01-30-2024 03:10:00,181.6,low,45,7,Technical,Phone,Agent_Kumar,T1,No,,,No
+TKT-0260,01/06/2024 17:27,68.9,09/06/2024 05:45,180.3,low,45,7,Network,Chat,Agent_Brown,T1,No,,,No
+TKT-0205,21/04/2024 15:44,18.6,23/04/2024 05:26,37.7,medium,40,3,Billing,Chat,Agent_Patel,T3,No,,,No
+TKT-0185,29/06/2024 12:48,,2024-07-01 02:42:00,37.9,low,45,7,Hardware,Email,Agent_Kumar,T2,Yes,Customer Requested,T1>T3,No
+TKT-0186,08-02-2024 16:47:00,10.4,05/08/2024 00:59,56.2,high,40,3,Account,Portal,Agent_Chen,T2,No,,,No
+TKT-0139,02-29-2024 14:57:00,14.8,03-02-2024 11:15:00,44.3,medium,40,3,Technical,Chat,Agent_Smith,T2,No,,,No
+TKT-0150,2024-07-26 16:53:00,29.0,07-30-2024 08:53:00,88.0,low,45,7,Technical,Portal,Agent_Ali,T2,No,,,No
+TKT-0476,02-04-2024 15:28:00,8.9,2024-02-05 06:22:00,14.9,critical,15,1,Technical,Phone,Agent_Patel,T1,No,,,No
+TKT-0354,2024-12-03 18:53:00,21.8,2024-12-07 15:29:00,92.6,low,45,7,Network,Phone,Agent_Brown,T2,No,,,No
+TKT-0018,24/01/2024 18:14,19.2,25/01/2024 00:02,5.8,medium,40,3,Network,Chat,Agent_Patel,T1,No,,,No
+TKT-0092,2024-05-06 17:38:00,72.2,05-09-2024 04:08:00,58.5,high,40,3,Account,Chat,Agent_Chen,T1,Yes,Manager,T1>T3,Yes
+TKT-0335,2024-10-16 18:50:00,,,,low,45,7,Technical,Portal,Agent_Brown,T1,No,,,No
+TKT-0428,04-24-2024 09:22:00,19.6,04-25-2024 14:04:00,28.7,high,40,3,Technical,Portal,Agent_Smith,T2,Yes,Internal,T2>T3,Yes
+TKT-0435,2024-06-28 08:11:00,7.3,07-04-2024 00:11:00,136.0,low,45,7,Billing,Email,Agent_Sharma,T2,No,,,No
+TKT-0252,04/04/2024 08:16,31.4,04-05-2024 20:46:00,36.5,medium,40,3,Hardware,Chat,Agent_Brown,T1,No,,,No
+TKT-0114,11-22-2024 12:10:00,6.0,11-23-2024 23:22:00,35.2,high,40,3,Billing,Chat,Agent_Sharma,T1,No,,,No
+TKT-0484,11-29-2024 11:20:00,93.9,11-30-2024 05:56:00,18.6,medium,40,3,Billing,Email,Agent_Ali,T2,Yes,Internal,T1>T3,No
+TKT-0230,2024-09-21 11:05:00,5.7,,,medium,40,3,Billing,Chat,Agent_Chen,T2,Yes,Manager,T2>T3,No
+TKT-0188,06/09/2024 11:17,14.8,09-08-2024 05:11:00,41.9,medium,40,3,Technical,Email,Agent_Kumar,T2,No,,,No
+TKT-0123,2024-07-27 17:47:00,69.7,07-28-2024 00:17:00,6.5,medium,40,3,Technical,Portal,Agent_Jones,T1,No,,,No
+TKT-0363,2024-05-31 13:51:00,12.1,06-02-2024 20:57:00,55.1,medium,40,3,Technical,Chat,Agent_Kumar,T1,No,,,No
+TKT-0058,23/07/2024 18:41,,07-27-2024 06:29:00,83.8,low,45,7,Billing,Chat,Agent_Kumar,T1,No,,,No
+TKT-0258,11-12-2024 11:49:00,25.1,11-14-2024 09:25:00,45.6,high,40,3,Technical,Chat,Agent_Chen,T2,No,,,No
+TKT-0402,2024-09-14 11:39:00,6.6,15/09/2024 06:03,18.4,critical,15,1,Billing,Email,Agent_Sharma,T1,No,,,No
+TKT-0187,2024-10-06 17:57:00,21.2,2024-10-08 03:27:00,33.5,high,40,3,Account,Phone,Agent_Patel,T1,No,,,No
+TKT-0056,08-04-2024 11:59:00,5.3,05/08/2024 08:59,21.0,critical,15,1,Technical,Chat,Agent_Ali,T2,No,,,No
+TKT-0455,12-26-2024 11:32:00,40.5,31/12/2024 21:20,129.8,low,45,7,Technical,Email,Agent_Brown,T2,No,,,No
+TKT-0137,25/02/2024 17:27,,28/02/2024 07:57,62.5,medium,40,3,Technical,Portal,Agent_Kumar,T1,No,,,No
+TKT-0037,2024-02-26 10:40:00,,2024-02-26 16:52:00,6.2,medium,40,3,Network,Email,Agent_Smith,T2,No,,,No
+TKT-0182,31/07/2024 08:13,99.8,08-08-2024 16:31:00,200.3,low,45,7,Technical,Email,Agent_Patel,T1,No,,,No
+TKT-0353,04-07-2024 17:16:00,17.9,09/04/2024 03:52,34.6,high,40,3,Billing,Chat,Agent_Smith,T1,Yes,Customer Requested,T2>T3,No
+TKT-0284,22/05/2024 10:37,62.7,05-27-2024 09:31:00,118.9,low,45,7,Technical,Email,Agent_Chen,T3,No,,,Yes
+TKT-0482,07-15-2024 15:37:00,32.0,07-17-2024 21:01:00,53.4,high,40,3,Network,Email,Agent_Brown,T1,Yes,Internal,T2>T3,No
+TKT-0295,2024-11-16 15:48:00,,11-21-2024 10:30:00,114.7,low,45,7,Billing,Phone,Agent_Sharma,T2,Yes,Manager,T1>T2,Yes
+TKT-0345,11/04/2024 14:54,73.7,2024-04-12 12:12:00,21.3,medium,40,3,Billing,Phone,Agent_Chen,T1,Yes,Manager,T2>T3,No
+TKT-0107,2024-05-15 09:56:00,14.3,16/05/2024 05:32,19.6,medium,40,3,Billing,Chat,Agent_Chen,T2,No,,,No
+TKT-0390,04-15-2024 09:53:00,16.3,04-17-2024 04:59:00,43.1,high,40,3,Billing,Chat,Agent_Jones,T2,No,,,No
+TKT-0497,25/10/2024 18:09,30.9,26/10/2024 01:27,7.3,medium,40,3,Hardware,Chat,Agent_Jones,T1,No,,,No
+TKT-0209,21/10/2024 18:58,15.4,2024-10-23 07:04:00,36.1,low,45,7,Technical,Email,Agent_Kumar,T2,No,,,No
+TKT-0179,2024-04-28 14:44:00,6.9,2024-04-29 13:38:00,22.9,critical,15,1,Hardware,Phone,Agent_Brown,T2,No,,,No
+TKT-0264,2024-05-02 10:35:00,9.9,2024-05-02 18:59:00,8.4,medium,40,3,Account,Chat,Agent_Sharma,T1,No,,,No
+TKT-0238,10-08-2024 13:22:00,22.5,10-13-2024 23:40:00,130.3,low,45,7,Network,Chat,Agent_Patel,T1,No,,,No
+TKT-0091,04-30-2024 14:07:00,104.2,2024-05-07 10:13:00,164.1,low,45,7,Billing,Portal,Agent_Kumar,T1,No,,,No
+TKT-0376,2024-06-04 15:07:00,16.3,06-07-2024 07:37:00,64.5,medium,40,3,Billing,Portal,Agent_Smith,T2,No,,,No
+TKT-0321,2024-07-28 18:09:00,24.3,2024-07-30 00:51:00,30.7,medium,40,3,Network,Email,Agent_Kumar,T2,No,,,No
+TKT-0358,08/03/2024 09:58,26.5,,,medium,40,3,Technical,Chat,Agent_Patel,T3,No,,,No
+TKT-0387,02-16-2024 18:13:00,68.9,,,low,45,7,Account,Phone,Agent_Smith,T1,No,,,No
+TKT-0174,11-22-2024 12:49:00,33.1,11-27-2024 11:49:00,119.0,low,45,7,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0077,02-20-2024 08:41:00,20.1,2024-02-22 22:29:00,61.8,high,40,3,Billing,Chat,Agent_Jones,T1,Yes,Customer Requested,T1>T2,No
+TKT-0319,02-21-2024 15:06:00,,02-22-2024 19:54:00,28.8,low,45,7,Billing,Email,Agent_Brown,T1,No,,,No
+TKT-0443,26/01/2024 18:05,34.8,,,medium,40,3,Account,Phone,Agent_Smith,T2,No,,,Yes
+TKT-0164,2024-03-16 18:44:00,33.8,,,medium,40,3,Billing,Phone,Agent_Ali,T1,Yes,Customer Requested,T2>T3,Yes
+TKT-0275,27/05/2024 15:07,28.7,05-29-2024 10:43:00,43.6,medium,40,3,Network,Chat,Agent_Sharma,T1,No,,,No
+TKT-0042,2024-05-16 18:21:00,37.4,2024-05-18 13:33:00,43.2,medium,40,3,Account,Phone,Agent_Kumar,T2,No,,,No
+TKT-0038,2024-12-14 14:38:00,25.9,2024-12-15 09:44:00,19.1,low,45,7,Billing,Phone,Agent_Kumar,T2,No,,,No
+TKT-0459,10-20-2024 14:45:00,7.0,2024-10-24 10:51:00,92.1,low,45,7,Billing,Email,Agent_Brown,T1,Yes,Manager,T1>T3,Yes
+TKT-0138,06-09-2024 14:38:00,,2024-06-11 10:14:00,43.6,high,40,3,Billing,Chat,Agent_Jones,T1,Yes,Customer Requested,T2>T3,No
+TKT-0304,19/05/2024 14:53,13.6,2024-05-20 02:41:00,11.8,medium,40,3,Account,Chat,Agent_Brown,T3,No,,,No
+TKT-0094,25/10/2024 17:33,93.6,2024-10-26 19:03:00,25.5,medium,40,3,Technical,Chat,Agent_Chen,T2,Yes,Customer Requested,T1>T3,No
+TKT-0338,2024-09-11 17:09:00,,09-11-2024 18:57:00,1.8,high,40,3,Technical,Phone,Agent_Chen,T2,No,,,No
+TKT-0016,17/11/2024 17:56,87.3,11-25-2024 13:02:00,187.1,low,45,7,Billing,Portal,Agent_Kumar,T1,No,,,No
+TKT-0331,2024-12-21 12:57:00,31.3,2024-12-26 01:15:00,108.3,medium,40,3,Billing,Chat,Agent_Ali,T1,No,,,No
+TKT-0161,08-21-2024 14:56:00,28.8,2024-08-22 06:56:00,16.0,medium,40,3,Technical,Phone,Agent_Jones,T1,No,,,No
+TKT-0314,06/04/2024 11:36,69.6,04-07-2024 09:42:00,22.1,critical,15,1,Hardware,Phone,Agent_Smith,T1,No,,,Yes
+TKT-0318,05/03/2024 16:37,61.4,10/03/2024 05:49,109.2,low,45,7,Technical,Phone,Agent_Chen,T1,No,,,No
+TKT-0451,2024-04-14 12:13:00,35.4,17/04/2024 04:01,63.8,high,40,3,Account,Chat,Agent_Kumar,T3,No,,,No
+TKT-0486,18/08/2024 09:51,8.5,,,critical,15,1,Technical,Chat,Agent_Ali,T1,No,,,No
+TKT-0061,2024-01-11 17:35:00,11.4,11/01/2024 19:59,2.4,medium,40,3,Account,Portal,Agent_Sharma,T2,No,,,No
+TKT-0203,2024-11-14 10:15:00,12.5,22/11/2024 11:27,193.2,low,45,7,Technical,Email,Agent_Sharma,T1,No,,,No
+TKT-0296,2024-04-14 12:35:00,53.3,,,medium,40,3,Network,Email,Agent_Kumar,T2,Yes,Manager,T1>T3,No
+TKT-0290,19/01/2024 15:05,93.9,21/01/2024 16:23,49.3,medium,40,3,Hardware,Email,Agent_Sharma,T1,No,,,No
+TKT-0432,11-25-2024 16:01:00,37.4,2024-11-26 21:19:00,29.3,high,40,3,Network,Chat,Agent_Jones,T1,Yes,Manager,T1>T3,No
+TKT-0299,2024-11-07 11:45:00,74.3,2024-11-09 16:27:00,52.7,medium,40,3,Account,Chat,Agent_Jones,T1,No,,,No
+TKT-0069,04-07-2024 09:06:00,35.9,2024-04-10 02:36:00,65.5,low,45,7,Hardware,Chat,Agent_Kumar,T2,No,,,No
+TKT-0366,06/07/2024 09:50,,2024-07-06 20:38:00,10.8,medium,40,3,Account,Email,Agent_Jones,T1,No,,,Yes
+TKT-0225,2024-12-08 14:21:00,33.0,17/12/2024 01:39,203.3,low,45,7,Account,Chat,Agent_Chen,T1,Yes,Manager,T1>T2,No
+TKT-0063,2024-12-28 18:03:00,68.3,29/12/2024 17:33,23.5,high,40,3,Billing,Phone,Agent_Kumar,T1,Yes,Manager,T2>T3,No
+TKT-0047,2024-04-11 10:23:00,,2024-04-11 21:11:00,10.8,medium,40,3,Billing,Email,Agent_Jones,T2,No,,,No
+TKT-0436,2024-10-16 18:25:00,28.8,17/10/2024 21:49,27.4,high,40,3,Technical,Email,Agent_Brown,T3,No,,,Yes
+TKT-0111,2024-09-15 15:16:00,6.6,2024-09-18 23:58:00,80.7,low,45,7,Billing,Phone,Agent_Smith,T2,No,,,Yes
+TKT-0151,04/06/2024 12:13,9.6,,,critical,15,1,Billing,Phone,Agent_Smith,T1,Yes,Customer Requested,T2>T3,No
+TKT-0245,09/04/2024 12:14,75.3,04-11-2024 21:26:00,57.2,low,45,7,Billing,Phone,Agent_Kumar,T2,No,,,No
+TKT-0369,10/12/2024 12:37,25.8,2024-12-12 09:31:00,44.9,low,45,7,Network,Email,Agent_Smith,T1,No,,,No
+TKT-0039,16/07/2024 14:38,29.4,07-17-2024 20:08:00,29.5,high,40,3,Technical,Email,Agent_Patel,T1,No,,,No
+TKT-0168,21/08/2024 10:51,31.4,23/08/2024 00:03,37.2,low,45,7,Billing,Chat,Agent_Smith,T1,No,,,Yes
+TKT-0212,12-22-2024 12:54:00,10.4,2024-12-22 17:18:00,4.4,high,40,3,Account,Chat,Agent_Kumar,T1,No,,,No
+TKT-0434,19/05/2024 12:58,,05-20-2024 09:22:00,20.4,low,45,7,Technical,Phone,Agent_Brown,T1,Yes,Manager,T1>T3,No
+TKT-0170,06-11-2024 15:39:00,37.5,,,medium,40,3,Technical,Email,Agent_Sharma,T1,No,,,No
+TKT-0041,12-14-2024 09:43:00,86.8,12-21-2024 19:01:00,177.3,low,45,7,Hardware,Chat,Agent_Brown,T1,No,,,No
+TKT-0377,30/04/2024 16:08,50.4,01/05/2024 17:20,25.2,high,40,3,Account,Chat,Agent_Chen,T2,No,,,Yes
+TKT-0043,30/05/2024 14:10,24.8,2024-05-31 06:16:00,16.1,low,45,7,Billing,Email,Agent_Ali,T1,No,,,No
+TKT-0273,2024-03-13 09:03:00,12.2,2024-03-18 00:33:00,111.5,high,40,3,Billing,Phone,Agent_Kumar,T3,No,,,No
+TKT-0348,05-31-2024 08:53:00,35.5,02/06/2024 14:41,53.8,low,45,7,Hardware,Chat,Agent_Patel,T2,No,,,No
+TKT-0248,01-28-2024 16:18:00,13.0,01-29-2024 12:54:00,20.6,critical,15,1,Technical,Email,Agent_Ali,T1,No,,,No
+TKT-0403,03/12/2024 16:19,36.2,12-06-2024 08:55:00,64.6,medium,40,3,Billing,Email,Agent_Sharma,T2,No,,,No
+TKT-0410,14/07/2024 17:33,12.3,07-16-2024 16:15:00,46.7,low,45,7,Technical,Portal,Agent_Ali,T2,No,,,No
+TKT-0411,20/08/2024 16:38,34.4,08-22-2024 08:14:00,39.6,medium,40,3,Account,Email,Agent_Kumar,T2,No,,,No
+TKT-0037,2024-02-26 10:40:00,,2024-02-26 16:52:00,6.2,medium,40,3,Network,Email,Agent_Smith,T2,No,,,No
+TKT-0379,12-22-2024 16:26:00,65.6,2024-12-27 00:02:00,103.6,high,40,3,Billing,Chat,Agent_Chen,T2,Yes,Customer Requested,T1>T3,No
+TKT-0093,11-13-2024 09:26:00,20.9,14/11/2024 17:44,32.3,high,40,3,Billing,Chat,Agent_Brown,T1,No,,,Yes
+TKT-0132,2024-07-23 13:17:00,65.5,07-29-2024 12:29:00,143.2,low,45,7,Network,Chat,Agent_Brown,T2,No,,,No
+TKT-0271,2024-08-05 09:34:00,27.8,08-10-2024 06:34:00,117.0,high,40,3,Billing,Phone,Agent_Ali,T3,Yes,Customer Requested,T1>T2,No
+TKT-0367,2024-01-08 12:34:00,6.4,2024-01-09 04:04:00,15.5,critical,15,1,Billing,Phone,Agent_Smith,T1,No,,,No
+TKT-0412,02-20-2024 09:54:00,6.8,20/02/2024 23:06,13.2,critical,15,1,Technical,Email,Agent_Brown,T2,No,,,No
+TKT-0409,26/10/2024 16:45,6.6,10-26-2024 23:21:00,6.6,critical,15,1,Technical,Chat,Agent_Jones,T1,Yes,Internal,T1>T3,No
+TKT-0127,05-07-2024 12:10:00,32.7,07/05/2024 21:58,9.8,high,40,3,Technical,Email,Agent_Jones,T1,No,,,No
+TKT-0341,2024-05-27 18:34:00,,05-28-2024 10:22:00,15.8,medium,40,3,Billing,Email,Agent_Patel,T2,Yes,Manager,T1>T2,No
+TKT-0021,05/07/2024 10:23,29.2,06/07/2024 04:23,18.0,medium,40,3,Account,Phone,Agent_Chen,T1,No,,,Yes
+TKT-0244,2024-09-25 17:18:00,19.4,2024-09-27 21:00:00,51.7,medium,40,3,Technical,Phone,Agent_Chen,T1,No,,,No
+TKT-0419,2024-08-30 09:05:00,14.1,30/08/2024 16:17,7.2,high,40,3,Network,Chat,Agent_Kumar,T2,Yes,Manager,T1>T2,No
+TKT-0178,2024-10-03 09:08:00,95.8,04/10/2024 15:26,30.3,medium,40,3,Technical,Email,Agent_Ali,T1,No,,,No
+TKT-0054,03-06-2024 18:30:00,35.1,11/03/2024 15:00,116.5,high,40,3,Account,Phone,Agent_Chen,T1,No,,,No
+TKT-0283,28/08/2024 16:41,29.5,01/09/2024 10:53,90.2,medium,40,3,Technical,Chat,Agent_Smith,T1,No,,,No
+TKT-0370,11-22-2024 13:06:00,21.3,,,low,45,7,Hardware,Email,Agent_Ali,T2,No,,,No
+TKT-0166,2024-12-22 16:29:00,21.3,12-25-2024 11:29:00,67.0,high,40,3,Billing,Phone,Agent_Smith,T2,No,,,No
+TKT-0176,13/08/2024 09:45,18.5,08-17-2024 14:21:00,100.6,low,45,7,Hardware,Chat,Agent_Jones,T1,No,,,No
+TKT-0262,2024-02-20 11:40:00,7.7,02-20-2024 15:10:00,3.5,critical,15,1,Technical,Phone,Agent_Kumar,T1,Yes,Internal,T2>T3,No
+TKT-0046,06-01-2024 18:32:00,17.1,2024-06-03 10:02:00,39.5,high,40,3,Technical,Chat,Agent_Patel,T1,Yes,Internal,T1>T2,Yes
+TKT-0237,09-28-2024 13:27:00,42.6,10-04-2024 03:39:00,134.2,low,45,7,Technical,Portal,Agent_Smith,T2,Yes,Internal,T1>T2,No
+TKT-0073,2024-06-22 09:15:00,22.1,06-29-2024 03:21:00,162.1,low,45,7,Technical,Email,Agent_Patel,T2,No,,,No
+TKT-0420,02-17-2024 14:06:00,23.4,20/02/2024 17:48,75.7,high,40,3,Billing,Portal,Agent_Brown,T1,Yes,Manager,T2>T3,No
