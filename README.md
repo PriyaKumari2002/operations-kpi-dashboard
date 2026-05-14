@@ -1,68 +1,99 @@
-# 📊 Customer Support Operations KPI Dashboard
+# 📊 Customer Support Operations KPI Dashboard | Python + Excel + Power BI
 
-> An end-to-end automated reporting pipeline that transforms raw support ticket data into actionable business insights using Python, Excel, and Power BI.
+> An end-to-end automated reporting pipeline that transforms raw customer support ticket data into actionable operational insights using Python, Excel, and Power BI.
+
+---
+
+## 📌 Project Highlights
+
+* Automated KPI pipeline for 500+ support tickets
+* Built interactive Power BI dashboard for SLA monitoring
+* Generated daily and weekly operational summaries
+* Automated Excel reporting using Python
+* Identified SLA breaches, escalation trends, and agent performance bottlenecks
 
 ---
 
 ## 🧩 Problem Statement
 
-Customer support teams generate hundreds of tickets daily. Without proper tracking, SLA breaches go unnoticed, escalations are mismanaged, and agent performance is invisible to management.
+Customer support teams generate hundreds of tickets daily. Without proper operational tracking, SLA breaches go unnoticed, escalations are poorly monitored, and agent performance becomes difficult to evaluate.
 
-This project builds an **automated KPI reporting system** that ingests raw ticket data, cleans it, calculates business-critical metrics, and delivers a fully interactive Power BI dashboard — the kind of system real operations teams use daily.
+This project builds an automated KPI reporting system that:
+
+* Cleans raw support ticket data
+* Calculates business-critical operational KPIs
+* Generates Excel reports
+* Delivers an interactive Power BI dashboard for decision-making
+
+This simulates a real-world operations analytics workflow used by support and service teams.
 
 ---
 
 ## 🎯 KPIs Tracked
 
-| KPI | Description |
-|-----|-------------|
-| **First Response Time (FRT)** | Time between ticket creation and first agent response |
-| **Resolution Time** | Total time to resolve a ticket |
-| **SLA Breach Rate** | % of tickets that exceeded SLA limits by priority |
-| **Escalation Analysis** | Volume and type of escalations (Customer/Internal/Manager) |
-| **Agent Performance** | Per-agent ticket volume, FRT, and resolution time |
-| **Reopened Tickets** | Tickets reopened after being marked resolved |
+| KPI                           | Description                                            |
+| ----------------------------- | ------------------------------------------------------ |
+| **First Response Time (FRT)** | Time between ticket creation and first agent response  |
+| **Resolution Time**           | Total time required to resolve a ticket                |
+| **SLA Breach Rate**           | Percentage of tickets exceeding SLA limits             |
+| **Escalation Analysis**       | Volume and types of escalations                        |
+| **Agent Performance**         | Ticket volume, FRT, and resolution efficiency by agent |
+| **Reopened Tickets**          | Tickets reopened after resolution                      |
 
 ---
 
 ## 🔍 Key Insights
 
-- **38% SLA Breach Rate** — 190 out of 500 tickets breached SLA limits
-- **Medium priority** tickets had the highest breach volume despite longer SLA limits
-- **Critical tickets** showed fastest resolution but highest escalation rate
-- **Agent_Kumar** handled the highest ticket volume with above-average resolution time
-- **Manager escalations** were the most common escalation type — signaling potential first-line resolution gaps
+* 38% SLA Breach Rate — 190 out of 500 tickets breached SLA limits
+* Medium priority tickets showed the highest breach volume
+* Critical tickets had the fastest resolution time but highest escalation rate
+* Agent_Kumar handled the highest ticket volume with above-average resolution time
+* Manager escalations were the most common escalation type, indicating potential first-line resolution gaps
+
+---
+
+## 💼 Business Impact
+
+This dashboard helps operations managers:
+
+* Monitor SLA compliance in real time
+* Detect operational bottlenecks early
+* Identify overloaded agents
+* Track escalation patterns
+* Improve response and resolution efficiency
+* Support data-driven operational decisions
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| **Python** | Data cleaning, KPI calculation, visualization |
-| **Pandas** | Data manipulation and aggregation |
-| **Matplotlib / Seaborn** | Exploratory charts |
-| **OpenPyXL** | Excel report generation |
-| **Power BI** | Interactive dashboard |
+| Tool           | Purpose                                    |
+| -------------- | ------------------------------------------ |
+| **Python**     | Data cleaning, KPI calculation, automation |
+| **Pandas**     | Data manipulation and aggregation          |
+| **Matplotlib** | Exploratory data visualization             |
+| **OpenPyXL**   | Automated Excel report generation          |
+| **Power BI**   | Interactive dashboard and reporting        |
 
 ---
 
 ## 📁 Project Structure
 
-```
+```text
 operations-kpi-dashboard/
 │
 ├── data/
-│   └── support_tickets_raw.csv       # Raw messy ticket data (520 rows, 16 cols)
+│   └── support_tickets_raw.csv
 │
 ├── notebooks/
-│   └── 01_cleaning_kpis.ipynb        # Full pipeline: clean → calculate → export
+│   └── 01_cleaning_kpis.ipynb
 │
 ├── output/
-│   └── kpi_report.xlsx               # Excel report (3 sheets: Raw, Daily, Weekly)
+│   └── kpi_report.xlsx
 │
 ├── dashboard/
-│   └── operations_kpi_dashboard.pbix # Interactive Power BI dashboard
+│   └── operations_kpi_dashboard.pbix
+    |__ dashboard_overview.png
 │
 ├── requirements.txt
 └── README.md
@@ -70,58 +101,69 @@ operations-kpi-dashboard/
 
 ---
 
-## ⚙️ Pipeline Overview
+## ⚙️ Pipeline Workflow
 
-```
+```text
 Raw CSV → Data Cleaning → KPI Calculation → Excel Export → Power BI Dashboard
 ```
 
-**Step 1 — Data Cleaning**
-- Removed 20 duplicate rows
-- Standardized 3 mixed date formats to datetime64
-- Handled 67 null FRT values
-- Fixed column data types
+### Step 1 — Data Cleaning
 
-**Step 2 — KPI Calculation**
-- Calculated FRT breach flag vs SLA limit by priority
-- Calculated resolution breach flag
-- Combined into overall SLA breach flag
-- Aggregated daily and weekly KPI summaries
+* Removed duplicate records
+* Standardized mixed date formats
+* Handled missing FRT values
+* Corrected inconsistent data types
 
-**Step 3 — Excel Export**
-- Raw_Data sheet — cleaned full dataset
-- Daily_KPIs sheet — day-level aggregations
-- Weekly_KPIs sheet — week-level aggregations
+### Step 2 — KPI Engineering
 
-**Step 4 — Power BI Dashboard**
-- 4 KPI cards (Total Tickets, Avg FRT, Avg Resolution, SLA Breaches)
-- Breaches by Priority bar chart
-- Monthly Ticket Trend line chart
-- Tickets by Category pie chart
-- Escalation Breakdown bar chart
-- Agent Performance table
+* Calculated FRT breach flags
+* Calculated resolution SLA breaches
+* Generated overall SLA compliance indicators
+* Created daily and weekly KPI summaries
+
+### Step 3 — Automated Excel Reporting
+
+Generated:
+
+* Raw cleaned dataset
+* Daily KPI summaries
+* Weekly KPI summaries
+
+### Step 4 — Dashboard Development
+
+Built an interactive Power BI dashboard containing:
+
+* KPI cards
+* SLA breach analysis
+* Ticket trend analysis
+* Escalation breakdown
+* Agent performance monitoring
+* Category-level ticket insights
 
 ---
 
 ## 🚀 How to Run
 
 ```bash
-# Clone the repo
+# Clone repository
 git clone https://github.com/PriyaKumari2002/operations-kpi-dashboard.git
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the notebook
+# Launch notebook
 jupyter notebook notebooks/01_cleaning_kpis.ipynb
 ```
 
-To view the dashboard — open `dashboard/operations_kpi_dashboard.pbix` in **Power BI Desktop** (free download from microsoft.com/powerbi)
+To view the dashboard:
+Open `operations_kpi_dashboard.pbix` using Power BI Desktop.
 
 ---
 
 ## 👤 Author
 
-**Priya**  
-Data Analyst | Python • SQL • Power BI • Excel  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Priya Kumari**
+Data Analyst | Python • SQL • Power BI • Excel
+
+* GitHub: https://github.com/PriyaKumari2002
+* LinkedIn: https://www.linkedin.com/in/priya374/
